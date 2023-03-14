@@ -1,0 +1,1 @@
+<h1 class="text-4xl">UTE <span class="font-extrabold">JOBS</span></h1>
